@@ -16,6 +16,8 @@ Mechatronics Engineering @ Toronto Metropolitan University (2023–2028), workin
 | [fm-radio](https://github.com/impateltirth/fm-radio) | Custom-PCB FM radio receiver with digital tuning, station seeking & LCD feedback | RDA5807 · I2C · PCB design · RF |
 | [datacore](https://github.com/impateltirth/datacore) | STM32 analog signal sampling with DMA buffering & UART streaming (10 kHz+) | STM32 · C · ADC · DMA · UART |
 | [thermodule](https://github.com/impateltirth/thermodule) | ESP32 thermal management: temperature sensing, PWM fan control, live LCD monitoring | ESP32 · C++ · PWM · I2C |
+| [ventil8](https://github.com/impateltirth/ventil8) | Ventilation layout for a small manufacturing workshop: AutoCAD duct routing, layer standards, equal-friction duct sizing | AutoCAD · Mechanical drafting · Schematics |
+| [clawbit](https://github.com/impateltirth/clawbit) | Four-bar linkage ball-sorting mechanism: SolidWorks CAD, MATLAB kinematics, CNC/3D-print manufacturing | SolidWorks · MATLAB · CNC machining |
 | [ResDex](https://github.com/impateltirth/ResDex) | Full-stack research-sharing platform | React · Node.js · AWS · Firebase |
 
 Also: Embedded Systems Research Intern @ ELIXIR Labs — vision & sensing systems for a soft magnetic robot (OpenCV, ESP32-S3, Edge Impulse ML, +35% navigation accuracy).
