@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tirth Patel engineering portfolio</title>
+  <desc id="desc">Embedded systems, controls, mechanical design, and validated tooling.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071a2b"/><stop offset="1" stop-color="#123d52"/></linearGradient></defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="60" r="180" fill="#38bdf8" opacity=".09"/><circle cx="1090" cy="380" r="240" fill="#34d399" opacity=".07"/>
+  <text x="70" y="95" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="24" letter-spacing="4">MECHATRONICS ENGINEERING</text>
+  <text x="70" y="160" fill="white" font-family="Segoe UI,Arial" font-size="54" font-weight="700">Firmware meets hardware.</text>
+  <text x="70" y="205" fill="#cbd5e1" font-family="Segoe UI,Arial" font-size="24">Embedded systems · sensing · controls · mechanical design</text>
+  <g font-family="Segoe UI,Arial" font-size="21" text-anchor="middle">
+    <rect x="70" y="270" width="230" height="78" rx="14" fill="#0f2940" stroke="#38bdf8"/><text x="185" y="318" fill="white">STM32 / ESP32</text>
+    <rect x="330" y="270" width="230" height="78" rx="14" fill="#0f2940" stroke="#34d399"/><text x="445" y="318" fill="white">Sensors / DMA</text>
+    <rect x="590" y="270" width="230" height="78" rx="14" fill="#0f2940" stroke="#fbbf24"/><text x="705" y="318" fill="white">CAD / Kinematics</text>
+    <rect x="850" y="270" width="280" height="78" rx="14" fill="#0f2940" stroke="#c084fc"/><text x="990" y="305" fill="white">Tests · CI · Diagrams</text><text x="990" y="333" fill="#cbd5e1" font-size="16">evidence before claims</text>
+  </g>
+</svg>
