@@ -22,6 +22,13 @@ Mechatronics Engineering @ Toronto Metropolitan University (2023–2028), workin
 
 Also: Embedded Systems Research Intern @ ELIXIR Labs — vision & sensing systems for a soft magnetic robot (OpenCV, ESP32-S3, Edge Impulse ML, +35% navigation accuracy).
 
+## How I document engineering work
+
+My project repositories separate implemented behavior from hardware-dependent
+validation. Testable calculations and host tooling include automated tests;
+embedded projects include pin maps, data-flow or wiring diagrams, reproducible
+build instructions, and explicit measurement checkpoints for the real device.
+
 ## GitHub stats
 
 ![Tirth's GitHub stats](https://github-readme-stats.vercel.app/api?username=impateltirth&show_icons=true&theme=default)
