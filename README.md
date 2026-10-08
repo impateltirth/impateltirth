@@ -1,5 +1,7 @@
 # Hi, I'm Tirth Patel 👋
 
+![Tirth Patel engineering portfolio](assets/engineering-portfolio.svg)
+
 Mechatronics Engineering @ Toronto Metropolitan University (2023–2028), working where firmware meets hardware: embedded systems, robotics, controls, and sensor integration.
 
 ## What I work with
